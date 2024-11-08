@@ -3,7 +3,7 @@ import { fetchEtfPrice } from './api.js';
 
 // Données initiales
 const etfs = [
-    { name: "ETF1", symbol: "SPY", purchasePrice: 100, quantity: 10 },  // Remplace "SPY" par le symbole de ton ETF
+    { name: "ETF1", symbol: "CW8", purchasePrice: 100, quantity: 10 },  // Remplace "SPY" par le symbole de ton ETF
     { name: "ETF2", symbol: "QQQ", purchasePrice: 150, quantity: 5 },
     { name: "ETF3", symbol: "DIA", purchasePrice: 200, quantity: 8 }
 ];
