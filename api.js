@@ -1,5 +1,5 @@
 // api.js
-const API_KEY = 'X1BIWGNJ3XROFOZB';  // Remplace par ta clé API
+const API_KEY = 'p97TojLIeALhvBilwql826Ekxkgy53K6';  // Remplace par ta clé API
 
 // Fonction pour récupérer le prix actuel d'un ETF
 export async function fetchEtfPrice(symbol) {
